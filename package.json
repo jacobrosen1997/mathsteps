@@ -4,6 +4,7 @@
   "description": "Step by step math solutions",
   "main": "index.js",
   "dependencies": {
+    "git": "^0.1.5",
     "mathjs": "3.11.2"
   },
   "engines": {
