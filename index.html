@@ -1,4 +1,12 @@
-const printLatex = require('./lib/util/print');
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+<script>
+    const printLatex = require('./lib/util/print');
 
 const ChangeTypes = require('./lib/ChangeTypes');
 const factor = require('./lib/factor');
@@ -300,59 +308,54 @@ const arrayProblems = ['2/4',
 '91/100-33/100',]
 
 const jsonHints = [];
-const jsonActions = [];
 
 
 
 
 for(j=0;j<arrayProblems.length;j++) {
-    jsonHint = "NONE"
-    jsonAction = "NONE"
+    jsonHint = {"action":"NONE",
+            "hint":"NONE"}
     const steps = simplifyExpression(arrayProblems[j]);
     if(steps.length != 0) {
         steps.forEach(step => {
         
             if (step.substeps.length != 0) {
-                jsonAction =  step.substeps[0].changeType;
-                jsonHint = latex(step.substeps[0].newNode);
-                //console.log(latex(step.substeps[0].newNode))
+                jsonHint = {"action":step.substeps[0].changeType,
+                                "hint":latex(step.substeps[0].newNode)}
                       
             } else {
-                jsonAction = step.changeType,
-                jsonHint = latex(step.newNode)
+                jsonHint = {"action":step.changeType,
+                                "hint":latex(step.newNode)}
             }
         });
     } else {
         const steps2 = solveEquation(arrayProblems[j])
         steps2.forEach(step => {
-            jsonAction = "EQUATION"
-            jsonHint = "EQUATION_HINT" 
+                jsonHint = {"action":"EQUATION",
+                                "hint":"EQUATION"}
+            
         });
     }
-    jsonHints.push(jsonHint)
-    jsonActions.push(jsonAction)
+    jsonHints.push([jsonHint])
 }
-// for(h=0;h<5;h++) {
-//     console.log(jsonHints[h])
-// }
-
-//console.log(jsonHints.length)
-//console.log(arrayProblems.length)
-
-
-const fs = require('fs');
-fs.writeFile("C:/Users/jacob/OneDrive/Dokument/GitHub/mathsteps/hints.txt", jsonHints.join('\t'), function(err) {
-    if(err) {
-        return console.log(err);
+     
+     
+    function download_csv() {
+        var csv = 'Name,Title\n';
+        jsonHints.forEach(function(row) {
+                csv += row.join(',');
+                csv += "\n";
+        });
+     
+        console.log(csv);
+        var hiddenElement = document.createElement('a');
+        hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(csv);
+        hiddenElement.target = '_blank';
+        hiddenElement.download = 'people.csv';
+        hiddenElement.click();
     }
-
-    console.log("The file was saved!");
-});
-
-fs.writeFile("C:/Users/jacob/OneDrive/Dokument/GitHub/mathsteps/actions.txt", jsonActions.join('\t'), function(err) {
-    if(err) {
-        return console.log(err);
-    }
-
-    console.log("The file was saved!");
-}); 
+    </script>
+     
+    <button onclick="download_csv()">Download CSV</button> 
+</body>
+</html>

@@ -1,0 +1,293 @@
+,Actions,Hints
+0,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}
+1,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}
+2,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(3\cdot2\right)}
+3,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(4\cdot2\right)}
+4,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(4\cdot2\right)}
+5,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(4\cdot2\right)}
+6,Sök största gemensamma faktor,\frac{\left(1\cdot3\right)}{\left(2\cdot3\right)}
+7,Sök största gemensamma faktor,\frac{\left(1\cdot3\right)}{\left(2\cdot3\right)}
+8,Sök största gemensamma faktor,\frac{\left(1\cdot3\right)}{\left(3\cdot3\right)}
+9,Sök största gemensamma faktor,\frac{\left(1\cdot3\right)}{\left(3\cdot3\right)}
+10,NONE,NONE
+11,Sök största gemensamma faktor,\frac{\left(2\cdot2\right)}{\left(3\cdot2\right)}
+12,Sök största gemensamma faktor,\frac{\left(2\cdot2\right)}{\left(3\cdot2\right)}
+13,Sök största gemensamma faktor,\frac{\left(1\cdot4\right)}{\left(2\cdot4\right)}
+14,Sök största gemensamma faktor,\frac{\left(2\cdot2\right)}{\left(5\cdot2\right)}
+15,Sök största gemensamma faktor,\frac{\left(1\cdot4\right)}{\left(3\cdot4\right)}
+16,Sök största gemensamma faktor,\frac{\left(1\cdot4\right)}{\left(4\cdot4\right)}
+17,Sök största gemensamma faktor,\frac{\left(1\cdot5\right)}{\left(4\cdot5\right)}
+18,Sök största gemensamma faktor,\frac{\left(3\cdot2\right)}{\left(4\cdot2\right)}
+19,Sök största gemensamma faktor,\frac{\left(3\cdot2\right)}{\left(4\cdot2\right)}
+20,Sök största gemensamma faktor,\frac{\left(3\cdot2\right)}{\left(4\cdot2\right)}
+21,Sök största gemensamma faktor,\frac{\left(3\cdot2\right)}{\left(4\cdot2\right)}
+22,Sök största gemensamma faktor,\frac{\left(3\cdot2\right)}{\left(4\cdot2\right)}
+23,Sök största gemensamma faktor,\frac{\left(2\cdot3\right)}{\left(3\cdot3\right)}
+24,Sök största gemensamma faktor,\frac{\left(2\cdot4\right)}{\left(3\cdot4\right)}
+25,Sök största gemensamma faktor,\frac{\left(2\cdot4\right)}{\left(5\cdot4\right)}
+26,Sök största gemensamma faktor,\frac{\left(3\cdot3\right)}{\left(4\cdot3\right)}
+27,Sök största gemensamma faktor,\frac{\left(3\cdot3\right)}{\left(4\cdot3\right)}
+28,Sök största gemensamma faktor,\frac{\left(1\cdot10\right)}{\left(3\cdot10\right)}
+29,Sök största gemensamma faktor,\frac{\left(2\cdot6\right)}{\left(3\cdot6\right)}
+30,Kombinera täljare,\frac{\left(5 - 3\right)}{6}
+31,Förenkla,\frac{1}{4}
+32,Ta bort multiplikation med 1,\frac{3}{2}
+33,Förenkla,\frac{5}{8}
+34,Förenkla,\frac{1}{6}
+35,Ta bort multiplikation med 1,\frac{73}{2}
+36,Gemensam nämnare,\frac{\left(\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}+\frac{2}{4}\right)}{2}
+37,Gemensam nämnare,\frac{\left(\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}+\frac{2}{4}\right)}{2}
+38,Ta bort multiplikation med 1,\frac{2}{3}
+39,Förenkla,\frac{1}{6}
+40,Förenkla,\frac{1}{24}
+41,Ta bort multiplikation med 1,\frac{4}{5}
+42,Förenkla,\frac{1}{15}
+43,Förenkla,\frac{1}{20}
+44,Kombinera täljare,\frac{\left(1+3\right)}{5}
+45,Sök största gemensamma faktor,\frac{\left(2\cdot2\right)}{\left(3\cdot2\right)}
+46,Förenkla,\frac{1}{24}
+47,Ta bort multiplikation med 1,\frac{3}{8}
+48,Kombinera täljare,\frac{\left(1+2\right)}{8}
+49,Kancellera termer,3
+50,Kancellera termer,\frac{3}{7}
+51,Kancellera termer,\frac{1}{2}
+52,Förenkla,\frac{18}{17}
+53,Kancellera termer,\frac{4}{5}
+54,Förenkla,\frac{18}{19}
+55,Sök största gemensamma faktor,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}
+56,Kancellera termer,\frac{2}{5}
+57,Kancellera termer,\frac{1}{3}
+58,Förenkla,\frac{1}{30}
+59,Kombinera täljare,\frac{\left(2+2\right)}{3}
+60,Kombinera täljare,\frac{\left(2+5\right)}{3}
+61,Förenkla,\frac{4}{5}
+62,Kancellera termer,\frac{2}{3}
+63,Kancellera termer,\frac{1}{5}
+64,Förenkla,\frac{6}{7}
+65,Förenkla,\frac{2}{21}
+66,Kombinera täljare,\frac{\left(25+12\right)}{40}
+67,Förenkla,\frac{3}{8}
+68,Förenkla,\frac{9}{2}
+69,Sök största gemensamma faktor,\frac{\left(4\cdot4\right)}{\left(1\cdot4\right)}
+70,Förenkla,\frac{3}{20}
+71,Förenkla,\frac{12}{5}
+72,Kancellera termer,\frac{1}{5}
+73,Kancellera termer,\frac{1}{5}
+74,Förenkla,\frac{15}{7}
+75,Kancellera termer,\frac{3}{4}
+76,Förenkla,\frac{18}{35}
+77,Kancellera termer,\frac{1}{7}
+78,Förenkla,\frac{3}{35}
+79,Kancellera termer,\frac{2}{5}
+80,Kancellera termer,\frac{1}{5}
+81,Förenkla,\frac{148}{3}
+82,Kancellera termer,\frac{1}{3}
+83,Förenkla,\frac{8}{9}
+84,Kancellera termer,\frac{2}{9}
+85,Förenkla,\frac{30}{121}
+86,Förenkla,\frac{5}{18}
+87,Förenkla,\frac{5}{12}
+88,Förenkla,\frac{10}{3}
+89,Förenkla,\frac{5}{12}
+90,Förenkla,\frac{5}{12}
+91,Förenkla,\frac{5}{28}
+92,Förenkla,\frac{55}{81}
+93,Förenkla,\frac{5}{18}
+94,Kombinera täljare,\frac{\left(5+3\right)}{9}
+95,Förenkla,\frac{15}{7}
+96,Förenkla,\frac{11}{14}
+97,Förenkla,\frac{13}{14}
+98,Kancellera termer,\frac{2}{7}
+99,Kombinera täljare,\frac{\left(6+4\right)}{7}
+100,Förenkla,\frac{9}{4}
+101,Kancellera termer,\frac{1}{4}
+102,Förenkla,12
+103,Förenkla,\frac{2}{9}
+104,Förenkla,\frac{49}{121}
+105,Förenkla,\frac{7}{9}
+106,Förenkla,14
+107,Kancellera termer,\frac{7}{8}
+108,Förenkla,18
+109,Förenkla,\frac{16}{9}
+110,Kancellera termer,4
+111,Kancellera termer,\frac{4}{9}
+112,Kancellera termer,\frac{2}{9}
+113,Kancellera termer,\frac{3}{16}
+114,Kancellera termer,\frac{1}{2}
+115,Ta bort multiplikation med 1,\frac{3}{7}\cdot x
+116,Ta bort 0,\frac{2}{23}
+117,Skriv om heltal till bråk,\frac{77}{77}+\frac{-68}{77}
+118,Skriv om heltal till bråk,\frac{9}{9}+\frac{-8}{9}
+119,Gemensam nämnare,\frac{\left(1\cdot12\right)}{\left(11\cdot12\right)}+\frac{\left(1\cdot11\right)}{\left(12\cdot11\right)}
+120,Gemensam nämnare,\frac{1}{12}+\frac{\left(-1\cdot3\right)}{\left(4\cdot3\right)}
+121,Gemensam nämnare,\frac{1}{12}+\frac{\left(5\cdot2\right)}{\left(6\cdot2\right)}
+122,Förenkla,\frac{3}{8}
+123,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}+\frac{1}{4}
+124,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}+\frac{1}{4}
+125,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(2\cdot2\right)}+\frac{1}{4}
+126,Gemensam nämnare,\frac{\left(1\cdot4\right)}{\left(2\cdot4\right)}+\frac{1}{8}
+127,Gemensam nämnare,\frac{\left(1\cdot4\right)}{\left(2\cdot4\right)}+\frac{1}{8}
+128,Gemensam nämnare,\frac{\left(1\cdot4\right)}{\left(3\cdot4\right)}+\frac{\left(-1\cdot3\right)}{\left(4\cdot3\right)}
+129,Kombinera täljare,\frac{\left(1+1\right)}{3}
+130,Kombinera täljare,\frac{\left(1+1\right)}{3}
+131,Kombinera täljare,\frac{\left(1+1\right)}{3}
+132,Gemensam nämnare,\frac{\left(1\cdot4\right)}{\left(3\cdot4\right)}+\frac{\left(1\cdot3\right)}{\left(4\cdot3\right)}
+133,Gemensam nämnare,\frac{\left(1\cdot5\right)}{\left(3\cdot5\right)}+\frac{\left(1\cdot3\right)}{\left(5\cdot3\right)}
+134,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(3\cdot2\right)}+\frac{1}{6}
+135,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(3\cdot2\right)}+\frac{1}{6}
+136,Gemensam nämnare,\frac{\left(1\cdot3\right)}{\left(3\cdot3\right)}+\frac{1}{9}
+137,Gemensam nämnare,\frac{\left(1\cdot3\right)}{\left(3\cdot3\right)}+\frac{1}{9}
+138,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(3\cdot2\right)}+\frac{2}{6}
+139,Gemensam nämnare,\frac{\left(1\cdot7\right)}{\left(3\cdot7\right)}+\frac{\left(2\cdot3\right)}{\left(7\cdot3\right)}
+140,Gemensam nämnare,\frac{\left(1\cdot3\right)}{\left(3\cdot3\right)}+\frac{4}{9}
+141,Gemensam nämnare,\frac{\left(1\cdot8\right)}{\left(3\cdot8\right)}+\frac{\left(5\cdot3\right)}{\left(8\cdot3\right)}
+142,Kombinera täljare,\frac{\left(1+1\right)}{4}
+143,Gemensam nämnare,\frac{\left(1\cdot3\right)}{\left(4\cdot3\right)}+\frac{\left(1\cdot2\right)}{\left(6\cdot2\right)}
+144,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(4\cdot2\right)}+\frac{1}{8}
+145,Kombinera täljare,\frac{\left(1+2\right)}{4}
+146,Kombinera täljare,\frac{\left(1+2\right)}{4}
+147,Gemensam nämnare,\frac{\left(1\cdot4\right)}{\left(4\cdot4\right)}+\frac{5}{16}
+148,Förenkla,\frac{1}{15}
+149,Kombinera täljare,\frac{\left(1+1\right)}{5}
+150,Kombinera täljare,\frac{\left(1+2\right)}{5}
+151,Kombinera täljare,\frac{\left(1+2\right)}{5}
+152,Gemensam nämnare,\frac{\left(1\cdot6\right)}{\left(5\cdot6\right)}+\frac{\left(4\cdot5\right)}{\left(6\cdot5\right)}
+153,Gemensam nämnare,\frac{\left(1\cdot3\right)}{\left(6\cdot3\right)}+\frac{\left(-1\cdot2\right)}{\left(9\cdot2\right)}
+154,Gemensam nämnare,\frac{\left(1\cdot2\right)}{\left(6\cdot2\right)}+\frac{\left(1\cdot3\right)}{\left(4\cdot3\right)}
+155,Kombinera täljare,\frac{\left(1+2\right)}{6}
+156,Kombinera täljare,\frac{\left(1+2\right)}{6}
+157,Kombinera täljare,\frac{\left(1+2\right)}{7}
+158,Gemensam nämnare,\frac{\left(1\cdot9\right)}{\left(8\cdot9\right)}+\frac{\left(-1\cdot8\right)}{\left(9\cdot8\right)}
+159,Förenkla,\frac{1}{12}
+160,Förenkla,\frac{1}{27}
+161,Kombinera täljare,\frac{\left(10 - 5\right)}{11}
+162,Kombinera täljare,\frac{\left(10 - 7\right)}{13}
+163,Kombinera täljare,\frac{\left(11+28\right)}{19}
+164,Kombinera täljare,\frac{\left(12+40\right)}{22}
+165,Kombinera täljare,\frac{\left(12+40\right)}{22}
+166,Kombinera täljare,\frac{\left(12 - 3\right)}{5}
+167,Kombinera täljare,\frac{\left(12 - 3\right)}{5}
+168,Sök största gemensamma faktor,\frac{\left(7\cdot2\right)}{\left(12\cdot2\right)}
+169,Kombinera täljare,\frac{\left(14 - 6\right)}{24}
+170,Sök största gemensamma faktor,\frac{\left(1\cdot14\right)}{\left(4\cdot14\right)}
+171,Kombinera täljare,\frac{\left(15 - 3\right)}{9}
+172,Kombinera täljare,\frac{\left(15 - 3\right)}{9}
+173,Kombinera täljare,\frac{\left(18+3\right)}{28}
+174,Kombinera täljare,\frac{\left(18+17\right)}{42}
+175,Förenkla,\frac{16}{11}
+176,Förenkla,\frac{18}{19}
+177,Kombinera täljare,\frac{\left(2 - 1\right)}{3}
+178,Kombinera täljare,\frac{\left(2 - 1\right)}{3}
+179,Gemensam nämnare,\frac{\left(2\cdot5\right)}{\left(3\cdot5\right)}+\frac{\left(-1\cdot3\right)}{\left(5\cdot3\right)}
+180,Gemensam nämnare,\frac{\left(2\cdot5\right)}{\left(3\cdot5\right)}+\frac{\left(-1\cdot3\right)}{\left(5\cdot3\right)}
+181,Gemensam nämnare,\frac{\left(2\cdot7\right)}{\left(3\cdot7\right)}+\frac{\left(-1\cdot3\right)}{\left(7\cdot3\right)}
+182,Gemensam nämnare,\frac{\left(2\cdot8\right)}{\left(3\cdot8\right)}+\frac{\left(-2\cdot3\right)}{\left(8\cdot3\right)}
+183,Kancellera termer,2
+184,Kancellera termer,\frac{2}{5}
+185,Gemensam nämnare,\frac{\left(2\cdot5\right)}{\left(3\cdot5\right)}+\frac{\left(1\cdot3\right)}{\left(5\cdot3\right)}
+186,Kombinera täljare,\frac{\left(2 - 1\right)}{5}
+187,Förenkla,\frac{1}{15}
+188,Förenkla,\frac{4}{5}
+189,EQUATION,EQUATION_HINT
+190,Kombinera täljare,\frac{\left(2+1\right)}{5}
+191,Gemensam nämnare,\frac{\left(2\cdot5\right)}{\left(7\cdot5\right)}+\frac{\left(-1\cdot7\right)}{\left(5\cdot7\right)}
+192,Kancellera termer,\frac{1}{7}
+193,Gemensam nämnare,\frac{\left(2\cdot4\right)}{\left(7\cdot4\right)}+\frac{\left(2\cdot7\right)}{\left(4\cdot7\right)}
+194,Kombinera täljare,\frac{\left(23 - 3\right)}{32}
+195,Kombinera täljare,\frac{\left(23 - 3\right)}{32}
+196,Sök största gemensamma faktor,\frac{\left(2\cdot12\right)}{\left(5\cdot12\right)}
+197,Kombinera täljare,\frac{\left(25+12\right)}{40}
+198,Kombinera täljare,\frac{\left(28 - 11\right)}{19}
+199,Kombinera täljare,\frac{\left(29 - 13\right)}{96}
+200,Kombinera täljare,\frac{\left(29 - 13\right)}{96}
+201,Förenkla,6
+202,Förenkla,12
+203,Förenkla,\frac{9}{2}
+204,Förenkla,\frac{15}{4}
+205,Kombinera täljare,\frac{\left(3+5\right)}{10}
+206,Förenkla,\frac{9}{10}
+207,Kombinera täljare,\frac{\left(3 - 2\right)}{23}
+208,Kombinera täljare,\frac{\left(3 - 1\right)}{4}
+209,Kombinera täljare,\frac{\left(3 - 1\right)}{4}
+210,Gemensam nämnare,\frac{\left(3\cdot3\right)}{\left(4\cdot3\right)}+\frac{\left(-1\cdot2\right)}{\left(6\cdot2\right)}
+211,Kombinera täljare,\frac{\left(3 - 2\right)}{4}
+212,Förenkla,\frac{3}{8}
+213,Gemensam nämnare,\frac{\left(3\cdot5\right)}{\left(4\cdot5\right)}+\frac{\left(1\cdot4\right)}{\left(5\cdot4\right)}
+214,Gemensam nämnare,\frac{\left(3\cdot3\right)}{\left(5\cdot3\right)}+\frac{\left(-1\cdot5\right)}{\left(3\cdot5\right)}
+215,Kombinera täljare,\frac{\left(3 - 2\right)}{5}
+216,Kombinera täljare,\frac{\left(3 - 4\right)}{5}
+217,Förenkla,\frac{6}{5}
+218,Kombinera täljare,\frac{\left(3 - 2\right)}{6}
+219,Förenkla,\frac{3}{14}
+220,Kombinera täljare,\frac{\left(3+3\right)}{7}
+221,Gemensam nämnare,\frac{\left(3\cdot3\right)}{\left(8\cdot3\right)}+\frac{\left(1\cdot8\right)}{\left(3\cdot8\right)}
+222,Kombinera täljare,\frac{\left(3+1\right)}{8}
+223,Kombinera täljare,\frac{\left(3+3\right)}{8}
+224,Kombinera täljare,\frac{\left(3+4\right)}{8}
+225,Kombinera täljare,\frac{\left(3+4\right)}{8}
+226,Sök största gemensamma faktor,\frac{\left(3\cdot3\right)}{\left(1\cdot3\right)}
+227,Kombinera täljare,\frac{\left(3+3\right)}{9}
+228,Kombinera täljare,\frac{\left(31 - 19\right)}{26}
+229,Kombinera täljare,\frac{\left(31 - 19\right)}{26}
+230,Kombinera täljare,\frac{\left(33 - 5\right)}{49}
+231,Kombinera täljare,\frac{\left(33 - 5\right)}{49}
+232,Sök största gemensamma faktor,\frac{\left(3\cdot12\right)}{\left(4\cdot12\right)}
+233,Kombinera täljare,\frac{\left(36 - 18\right)}{50}
+234,Kombinera täljare,\frac{\left(36 - 18\right)}{50}
+235,Kombinera täljare,\frac{\left(4+3\right)}{10}
+236,Kombinera täljare,\frac{\left(4+18\right)}{13}
+237,Kombinera täljare,\frac{\left(4 - 1\right)}{2}
+238,Kombinera täljare,\frac{\left(4 - 2\right)}{5}
+239,Kombinera täljare,\frac{\left(4 - 3\right)}{5}
+240,Kombinera täljare,\frac{\left(4 - 2\right)}{6}
+241,Kombinera täljare,\frac{\left(4 - 3\right)}{6}
+242,Gemensam nämnare,\frac{\left(4\cdot3\right)}{\left(7\cdot3\right)}+\frac{\left(-1\cdot7\right)}{\left(3\cdot7\right)}
+243,Kombinera täljare,\frac{\left(4 - 1\right)}{7}
+244,Kancellera termer,\frac{3}{7}
+245,Kombinera täljare,\frac{\left(4 - 1\right)}{8}
+246,Kombinera täljare,\frac{\left(4 - 3\right)}{8}
+247,Kombinera täljare,\frac{\left(40 - 18\right)}{13}
+248,Sök största gemensamma faktor,\frac{\left(3\cdot15\right)}{\left(8\cdot15\right)}
+249,Förenkla,\frac{15}{7}
+250,Förenkla,\frac{15}{56}
+251,Förenkla,\frac{15}{7}
+252,Kancellera termer,6
+253,Kombinera täljare,\frac{\left(5+3\right)}{11}
+254,Kombinera täljare,\frac{\left(5+4\right)}{13}
+255,Kancellera termer,5
+256,Förenkla,\frac{15}{28}
+257,Gemensam nämnare,\frac{\left(5\cdot5\right)}{\left(7\cdot5\right)}+\frac{\left(-1\cdot7\right)}{\left(5\cdot7\right)}
+258,Kombinera täljare,\frac{\left(5 - 3\right)}{7}
+259,Kombinera täljare,\frac{\left(5 - 3\right)}{7}
+260,Kombinera täljare,\frac{\left(5 - 3\right)}{8}
+261,Kancellera termer,\frac{5}{9}
+262,Kombinera täljare,\frac{\left(5 - 3\right)}{9}
+263,Förenkla,\frac{10}{9}
+264,NONE,NONE
+265,Förenkla,8
+266,Förenkla,8
+267,Kombinera täljare,\frac{\left(6+3\right)}{14}
+268,Kombinera täljare,\frac{\left(6 - 2\right)}{5}
+269,Kombinera täljare,\frac{\left(6 - 4\right)}{7}
+270,Kombinera täljare,\frac{\left(6 - 4\right)}{7}
+271,Kombinera täljare,\frac{\left(6 - 4\right)}{7}
+272,Förenkla bråk,3\cdot x
+273,Kombinera täljare,\frac{\left(7+5\right)}{16}
+274,Kombinera täljare,\frac{\left(7 - 1\right)}{3}
+275,Kombinera täljare,\frac{\left(7 - 3\right)}{8}
+276,Kombinera täljare,\frac{\left(7 - 3\right)}{8}
+277,Förenkla,\frac{24}{7}
+278,Kombinera täljare,\frac{\left(8 - 5\right)}{10}
+279,Kombinera täljare,\frac{\left(8 - 5\right)}{4}
+280,Kombinera täljare,\frac{\left(8+3\right)}{55}
+281,Kombinera täljare,\frac{\left(8 - 3\right)}{9}
+282,Kombinera täljare,\frac{\left(8 - 3\right)}{9}
+283,Kombinera täljare,\frac{\left(8 - 4\right)}{9}
+284,Förenkla,\frac{16}{9}
+285,Förenkla,\frac{18}{7}
+286,Kombinera täljare,\frac{\left(9+48\right)}{100}
+287,Kombinera täljare,\frac{\left(9+48\right)}{100}
+288,Kombinera täljare,\frac{\left(9 - 4\right)}{11}
+289,Gemensam nämnare,\frac{\left(9\cdot5\right)}{\left(13\cdot5\right)}+\frac{\left(-2\cdot13\right)}{\left(5\cdot13\right)}
+290,Kombinera täljare,\frac{\left(91 - 33\right)}{100}
+291,Kombinera täljare,\frac{\left(91 - 33\right)}{100}
