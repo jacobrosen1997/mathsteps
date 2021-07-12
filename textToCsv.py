@@ -20,7 +20,7 @@ columns = ["Actions","Hints"]
 df = pd.DataFrame(dlist,columns=columns)
 
 try:
-    df.to_csv("hints.csv",columns=columns)
+    df.to_csv("hintsAlgebra4.csv",columns=columns)
     print("Created file successfully.")
 except:
     print("Didn't work, probably same file name.")
