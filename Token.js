@@ -1,10 +1,12 @@
-import { isNum, isOp } from './util.js'
-export class Token {
+//import { isNum, isOp } from './util.js'
+const {isNum,isOp} = require("./util")
+
+class Token {
     constructor() {
         this.inst = null
         this.tokens = []
     }
-    static getInst() {
+    getInst() {
         if (!this.inst)
             this.inst = new Token()
         return this.inst
@@ -40,6 +42,5 @@ export class Token {
     }
 }
 
-//exports.module= Token;
-
+module.exports = Token
 //exports.Token = Token

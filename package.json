@@ -1,6 +1,4 @@
 {
-  
-  "type": "module",
   "name": "mathsteps",
   "version": "0.2.0",
   "description": "Step by step math solutions",
